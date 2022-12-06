@@ -1,3 +1,2 @@
-# registration
-PHP registration with mysql
-Simple apps with registration form and login
+# PHP
+the core php version of bincom php test
